@@ -1915,10 +1915,91 @@
     "trainee": "true"
     },
     {
+        {
     "id": 240,
     "name": "Afera Thalia",
     "picture": "/assets/member/afera_thalia.png",
-    "generation": "13",
+    "generation": "14",
+    "graduated": "false",
+    "trainee": "true"
+    },
+    {
+    "id": 241,
+    "name": "Carissa Dini",
+    "picture": "/assets/member/carissa_dini.png",
+    "generation": "14",
+    "graduated": "false",
+    "trainee": "true"
+    },
+    {
+    "id": 242,
+    "name": "Christabella Bonita",
+    "picture": "/assets/member/christabella_bonita.png",
+    "generation": "14",
+    "graduated": "false",
+    "trainee": "true"
+    },
+    {
+    "id": 243,
+    "name": "Fahira Putri",
+    "picture": "/assets/member/fahira_putri.png",
+    "generation": "14",
+    "graduated": "false",
+    "trainee": "true"
+    },
+    {
+    "id": 244,
+    "name": "Fatimah Azzahra",
+    "picture": "/assets/member/fatimah_azzahra.png",
+    "generation": "14",
+    "graduated": "false",
+    "trainee": "true"
+    },
+    {
+    "id": 245,
+    "name": "Heidi Suyangga",
+    "picture": "/assets/member/heidi_suyangga.png",
+    "generation": "14",
+    "graduated": "false",
+    "trainee": "true"
+    },
+    {
+    "id": 246,
+    "name": "Maegan Jovanka",
+    "picture": "/assets/member/maegan_jovanka.png",
+    "generation": "14",
+    "graduated": "true",
+    "trainee": "false"
+    },
+    {
+    "id": 247,
+    "name": "Maxine Faye",
+    "picture": "/assets/member/maxine_faye.png",
+    "generation": "14",
+    "graduated": "false",
+    "trainee": "true"
+    },
+    {
+    "id": 248,
+    "name": "Putry Jazyta",
+    "picture": "/assets/member/putry_jazyta.png",
+    "generation": "14",
+    "graduated": "false",
+    "trainee": "true"
+    },
+    {
+    "id": 249,
+    "name": "Ralyne Van Irwan",
+    "picture": "/assets/member/ralyne_van_irwan.png",
+    "generation": "14",
+    "graduated": "true",
+    "trainee": "false"
+    },
+    {
+    "id": 250,
+    "name": "Sona Kalyana",
+    "picture": "/assets/member/sona_kalyana.png",
+    "generation": "14",
     "graduated": "false",
     "trainee": "true"
     }

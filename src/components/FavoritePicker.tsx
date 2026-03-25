@@ -142,7 +142,7 @@ const FavoritePicker = () => {
               {cell ? (
                 <>
                   <div className={`absolute inset-0 bg-gradient-to-br ${GRADIENTS[i]} flex items-center justify-center`}>
-                    <img src=${cell.picture} className="w-full h-full rounded-l object-cover" />
+                    <img src={cell.picture} className="w-full h-full rounded-l object-cover" />
                   </div>
                   <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent p-2 pt-6">
                     <span className="text-[11px] sm:text-sm font-semibold text-primary-foreground leading-tight block text-center">
@@ -208,7 +208,7 @@ const FavoritePicker = () => {
                         : "hover:bg-secondary active:scale-[0.98]"
                     }`}
                   >
-                    <img src=${item.picture} className="w-15 h-20 rounded-l object-cover" />
+                    <img src={item.picture} className="w-15 h-20 rounded-l object-cover" />
                     <span className="text-sm font-medium text-foreground">
                       {item.name.replace(/^.\s/, "")}
                     </span>

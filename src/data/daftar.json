@@ -1913,6 +1913,14 @@
     "generation": "13",
     "graduated": "false",
     "trainee": "true"
+    },
+    {
+    "id": 240,
+    "name": "Afera Thalia",
+    "picture": "/assets/member/afera_thalia.png",
+    "generation": "13",
+    "graduated": "false",
+    "trainee": "true"
     }
 ]
 }

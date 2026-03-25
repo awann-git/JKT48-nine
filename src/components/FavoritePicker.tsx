@@ -116,7 +116,7 @@ const FavoritePicker = () => {
   return (
     <div className="min-h-screen bg-background flex flex-col items-center py-6 px-4 font-body">
       <h1 className="font-display text-3xl sm:text-5xl text-center text-foreground mb-1">
-        9 Oshi All  Time
+       My 9 Oshi of All Time
       </h1>
       <p className="text-center text-muted-foreground mb-6 text-sm sm:text-base">
         oshi favorit sepanjang masa
